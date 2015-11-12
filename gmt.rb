@@ -27,9 +27,9 @@ class Gmt < Formula
   end
 
   resource "dcw" do
-    url "ftp://ftp.soest.hawaii.edu/gmt/dcw-gmt-1.1.1.tar.gz"
-    mirror "ftp://ftp.star.nesdis.noaa.gov/pub/sod/lsa/gmt/dcw-gmt-1.1.1.tar.gz"
-    mirror "ftp://gd.tuwien.ac.at/pub/gmt/dcw-gmt-1.1.1.tar.gz"
+    url "ftp://ftp.soest.hawaii.edu/gmt/dcw-gmt-1.1.2.tar.gz"
+    mirror "ftp://ftp.star.nesdis.noaa.gov/pub/sod/lsa/gmt/dcw-gmt-1.1.2.tar.gz"
+    mirror "ftp://gd.tuwien.ac.at/pub/gmt/dcw-gmt-1.1.2.tar.gz"
     sha1 "deca85f21426604c8574a18d16c931a1fd9ae27b"
   end
 
